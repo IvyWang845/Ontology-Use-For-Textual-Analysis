@@ -8,3 +8,4 @@ Prerequisites:
 2. Ontology: EnvO http://environmentontology.org/ use its owl format: https://github.com/EnvironmentOntology/envo/blob/master/src/envo/envo-edit.owl
 3. text2term package: https://pypi.org/project/text2term/
 4. Huggingface Library for downloading BERT and SciBERT pretrained models and tokenization: https://huggingface.co/bert-base-uncase
+```
