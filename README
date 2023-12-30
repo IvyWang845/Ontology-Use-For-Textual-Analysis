@@ -1,6 +1,6 @@
 # Extending a Pretrained Language Model (BERT) using an Ontological Perspective to Classify Students’ Scientific Expertise Level from Written Responses
 Official implementation of the proposed research paper "Extending a Pretrained Language Model (BERT) using an Ontological Perspective to Classify Students’ Scientific Expertise Level from Written Responses"
-![image](Architecture.png)
+![image](https://github.com/IvyWang845/Ontology-Use-For-Textual-Analysis/blob/ba5b39f87f4f9bfd53b535fcecae5baa7e3ec1c6/Architecture.png)
 
 Prerequisites:
 ---
